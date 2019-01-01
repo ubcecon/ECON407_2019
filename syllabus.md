@@ -68,7 +68,7 @@ In progress, and we won't be able to cover it all
 
 ## Schedule
 
-To get a sense of the topics we may cover (it is unlikely we will finish )
+A preliminary subset of the lectures we will cover
 
 
 ### Lecture 1
