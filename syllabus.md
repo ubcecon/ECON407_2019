@@ -189,7 +189,7 @@ To get a sense of the topics we may cover (it is unlikely we will finish )
 
 #### Assignments
 
-1. Beat the students to death with reshape examples
+1. Reshape examples
 
 
 ### Lecture 12
