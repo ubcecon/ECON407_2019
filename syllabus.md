@@ -58,8 +58,11 @@ In progress, and we won't be able to cover it all
     * Linear Regression
     * Lasso Regression
     * Neural Networks
+    * Random Forests
   * Classification
     * K-means
+    * Classification Trees
+    * Support Vector Machines
   * Data Visualization
     * Core visualization principles
     * Maps
@@ -241,7 +244,8 @@ To get a sense of the topics we may cover (it is unlikely we will finish )
 
 #### Topics Covered
 
-* Neural networks
+1. Random forests
+2. Neural networks
 
 
 ### Lecture 18
@@ -249,7 +253,9 @@ To get a sense of the topics we may cover (it is unlikely we will finish )
 #### Topics Covered
 
 1. Goals of classification
-2. K-means
+2. Classification trees
+3. Support vector machines
+4. K-means
 
 
 ### Lecture 19
