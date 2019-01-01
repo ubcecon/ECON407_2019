@@ -51,17 +51,19 @@ In progress, and we won't be able to cover it all
   * Groupby
   * Time series
   * Introductory Data Visualization
+
 4. **Data Science Case Studies and Tools**
-  1. Regression
+
+  * Regression
     * Linear Regression
     * Lasso Regression
     * Neural Networks
-  2. Classification
+  * Classification
     * K-means
-  3. Data Visualization
+  * Data Visualization
     * Core visualization principles
     * Maps
-  4. Miscellaneous
+  * Miscellaneous
     * Web scraping
     * Fitting probability distributions
     * Natural language processing
@@ -73,222 +75,222 @@ To get a sense of the topics we may cover (it is unlikely we will finish )
 
 ### Lecture 1
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Where we are going: Short description of how data and economics can be used as tools to view
-       the world and what you should be able to do after this class. Cool examples!
-    2. Introduction: Why did we choose Python? Get started using the Jupyter notebook and writing
-       your first code
-    3. Basics: Continue writing code. Variable assignment, packages, code style.
+1. Where we are going: Short description of how data and economics can be used as tools to view
+    the world and what you should be able to do after this class. Cool examples!
+2. Introduction: Why did we choose Python? Get started using the Jupyter notebook and writing
+    your first code
+3. Basics: Continue writing code. Variable assignment, packages, code style.
 
-  #### Assignments
+#### Assignments
 
-    1. Finish reading basics section
-    2. Make sure Syzygy account works by making small changes to a notebook we assign and submitting
-       it through system
+1. Finish reading basics section
+2. Make sure Syzygy account works by making small changes to a notebook we assign and submitting
+    it through system
 
 
 ### Lecture 2
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Review basics: Numbers, math operations, strings, booleans
-    2. Collections: Use conditionals in Python
-    3. Learn how to compute net present values
+1. Review basics: Numbers, math operations, strings, booleans
+2. Collections: Use conditionals in Python
+3. Learn how to compute net present values
 
 
 ### Lecture 3
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Review net present value and asset pricing
-    1. Control flow: Learn to use for loops, while loops, and if statements
+1. Review net present value and asset pricing
+1. Control flow: Learn to use for loops, while loops, and if statements
 
-  #### Assignments
+#### Assignments
 
-    1. Assignment on control flow and functions
+1. Assignment on control flow and functions
 
 
 ### Lecture 4
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Functions: Recall what a function is. Begin to write our own.
-    2. Review all of Python fundamentals
+1. Functions: Recall what a function is. Begin to write our own.
+2. Review all of Python fundamentals
 
 
 ### Lecture 5
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Introduction to numpy arrays
-    2. Introduction to plotting
+1. Introduction to numpy arrays
+2. Introduction to plotting
 
-  #### Assignments
+#### Assignments
 
-    1. Indexing practice
-    2. Explore matplotlib
+1. Indexing practice
+2. Explore matplotlib
 
 
 ### Lecture 6
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Applied linear algebra
-    2. Consumer theory and optimization
+1. Applied linear algebra
+2. Consumer theory and optimization
 
 
 ### Lecture 7
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Consumer theory and optimization cont'd
-    2. Randomness
+1. Consumer theory and optimization cont'd
+2. Randomness
 
-  #### Assignments
+#### Assignments
 
-    1. Simulation
-    2. Optimization
+1. Simulation
+2. Optimization
 
 
 ### Lecture 8
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Review day
+1. Review day
 
 
 ### Lecture 9
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Introduction to Pandas
-    2. The basics of Pandas
+1. Introduction to Pandas
+2. The basics of Pandas
 
-  #### Assignments
+#### Assignments
 
-    1. Create DataFrames by hand and explore the methods
-    2. Use examples to show them that index will be automatically lined up
+1. Create DataFrames by hand and explore the methods
+2. Use examples to show them that index will be automatically lined up
 
 
 ### Lecture 10
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Pandas indexes
-    2. Data formats
+1. Pandas indexes
+2. Data formats
 
 
 ### Lecture 11
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Data reshaping
+1. Data reshaping
 
-  #### Assignments
+#### Assignments
 
-    1. Beat the students to death with reshape examples
+1. Beat the students to death with reshape examples
 
 
 ### Lecture 12
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Data cleaning
-    2. Merging
+1. Data cleaning
+2. Merging
 
 
 ### Lecture 13
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Groupby
-    2. More data visualization
+1. Groupby
+2. More data visualization
 
-  #### Assignments
+#### Assignments
 
-    1. Examples of split-apply-combine
-    2. Practice making graphs and experiment with options
+1. Examples of split-apply-combine
+2. Practice making graphs and experiment with options
 
 
 ### Lecture 14
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Time series
-    2. Review pandas
+1. Time series
+2. Review pandas
 
 
 ### Lecture 15
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Goal of "regression" approaches
-    2. Linear regression
+1. Goal of "regression" approaches
+2. Linear regression
 
 
 ### Lecture 16
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Why use regularization techniques
-    2. Lasso Regression
+1. Why use regularization techniques
+2. Lasso Regression
 
 
 ### Lecture 17
 
-  #### Topics Covered
+#### Topics Covered
 
-    * Neural networks
+* Neural networks
 
 
 ### Lecture 18
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Goals of classification
-    2. K-means
+1. Goals of classification
+2. K-means
 
 
 ### Lecture 19
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Core visualization principles
+1. Core visualization principles
 
 
 ### Lecture 20
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Interactive graphs
-    2. Maps
-    3. Other cool graphs
+1. Interactive graphs
+2. Maps
+3. Other cool graphs
 
 
 ### Lecture 21
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Building models and fitting probability distributions
+1. Building models and fitting probability distributions
 
 
 ### Lecture 22
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Building models and fitting probability distributions (continued)
+1. Building models and fitting probability distributions (continued)
 
 
 ### Lecture 23
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Web scraping
+1. Web scraping
 
 
 ### Lecture 24
 
-  #### Topics Covered
+#### Topics Covered
 
-    1. Natural language processing
+1. Natural language processing
