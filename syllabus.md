@@ -16,7 +16,7 @@ intended as a replacement for Computer Science or Statistics courses.
 
 ## Course Materials and Communications
 All materials will be provided online:
-- Class Materials: https://github.com/ubc/ECON407_2019
+- Class Materials: https://github.com/ubcecon/ECON407_2019
 - Communications, Announcements, and Grades: http://canvas.ubc.ca
 
 ## Grading
