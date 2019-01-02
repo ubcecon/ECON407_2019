@@ -22,7 +22,8 @@ All materials will be provided online:
 ## Grading
 
 - Weekly problem sets: 50%
-- Final projects: 50%
+- Final projects: 45%
+- Attendance/Participation: 5% (basically, 5% given or 0% if we think you have attendance problems outside of the ordinary)
 
 ## Lecture Sections
 
