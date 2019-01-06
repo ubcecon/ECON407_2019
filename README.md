@@ -30,7 +30,7 @@ Major course sections
 4. **Data Science Case Studies and Tools**
 
 ## Lectures and Notebooks
-1. **January 3rd** - [Intro](intro.ipynb) and [Basics](basics.ipynb)
-2. **January 8th** - [Collections](collections.ipynb) and start [Control Flow](control_flow.ipynb)
-3. **January 11th** - [Problem Set 1](problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
+1. **January 3rd** - [Intro](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/intro.ipynb) and [Basics](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/basics.ipynb)
+2. **January 8th** - [Collections](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/collections.ipynb) and start [Control Flow](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/controlflow.ipynb)
+3. **January 11th** - [Problem Set 1](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
 
