@@ -15,6 +15,11 @@ To setup, go to [ECON407 Syzygy Setup](https://ubc.syzygy.ca/jupyter/user-redire
 
 In the next few weeks, we will give you an HTML and additional repository with a similarly easy setup
 
+For students doing Julia self-study for the first part of the course, setup on the VSE syzygy [QuantEcon Julia Setup](https://vse.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/QuantEcon/lecture-jl-notebooks&app=lab)
+ * Note, this is on a different jupyterhub for now
+ * There is a bug in the display of some images on jupyter lab.  You can look at the [Lecture HTML](https://lectures.quantecon.org/jl/) instead 
+ * You already have Jupyter installed, so start with [Using Jupyter](https://lectures.quantecon.org/jl/getting_started.html#Using-Jupyter) rather than the desktop setup.
+
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
 
@@ -25,7 +30,7 @@ Major course sections
 4. **Data Science Case Studies and Tools**
 
 ## Lectures and Notebooks
-1. **January 3rd** - 
-2. **January 8th** - 
-3. **January 11th** - Problem set 1 due (through canvas)
+1. **January 3rd** - [Intro](intro.ipynb) and [Basics](basics.ipynb)
+2. **January 8th** - [Collections](collections.ipynb) and start [Control Flow](control_flow.ipynb)
+3. **January 11th** - [Problem Set 1](problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
 
