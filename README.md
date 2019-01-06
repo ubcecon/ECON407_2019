@@ -27,5 +27,5 @@ Major course sections
 ## Lectures and Notebooks
 1. **January 3rd** - 
 2. **January 8th** - 
-3. **January 10th** - Problem set 1 due
+3. **January 11th** - Problem set 1 due (through canvas)
 
