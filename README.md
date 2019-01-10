@@ -32,7 +32,8 @@ Major course sections
 ## Lectures and Notebooks
 1. **January 3rd** - [Intro](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/intro.ipynb) and [Basics](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/basics.ipynb)
 2. **January 8th** - [Collections](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/collections.ipynb) and start [Control Flow](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/control_flow.ipynb)
-3. **January 10th** - Finish [Control Flow](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/control_flow.ipynb),  [Functions](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/functions.ipynb) and start [Numpy](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/scientific/numpy_arrays.ipynb)
+3. **January 10th** - Finish [Control Flow](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/control_flow.ipynb),  [Functions](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/functions.ipynb)
+4. **January 15th** - [Numpy](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/scientific/numpy_arrays.ipynb) and start [Plotting](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/scientific/plotting.ipynb)
 
 
 ## Problem Sets
