@@ -11,7 +11,7 @@ However, for those coming in with advanced Python skills, you can use this as an
 ## Computational Setup
 
 You will not need to install any software on your local computer.  You can use the online Jupyter environment from Syzygy
-To setup, go to [ECON407 Syzygy Setup](https://ubc.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/ubcecon/ECON407_2019&app=lab)
+To setup, go to [ECON407 Syzygy Setup](https://ubc.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/QuantEcon/quantecon-notebooks-datascience&app=lab)
 
 In the next few weeks, we will give you an HTML and additional repository with a similarly easy setup
 
@@ -30,13 +30,13 @@ Major course sections
 4. **Data Science Case Studies and Tools**
 
 ## Lectures and Notebooks
-1. **January 3rd** - [Intro](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/intro.ipynb) and [Basics](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/basics.ipynb)
-2. **January 8th** - [Collections](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/collections.ipynb) and start [Control Flow](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/control_flow.ipynb)
-3. **January 10th** - Finish [Control Flow](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/control_flow.ipynb),  [Functions](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/functions.ipynb)
-4. **January 15th** - [Numpy](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/scientific/numpy_arrays.ipynb) and start [Plotting](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/scientific/plotting.ipynb)
+1. **January 3rd** - [Intro](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/intro.ipynb) and [Basics](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/basics.ipynb)
+2. **January 8th** - [Collections](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/collections.ipynb) and start [Control Flow](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/control_flow.ipynb)
+3. **January 10th** - Finish [Control Flow](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/control_flow.ipynb),  [Functions](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/functions.ipynb)
+4. **January 15th** - [Numpy](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/scientific/numpy_arrays.ipynb) and start [Plotting](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/scientific/plotting.ipynb)
 
 
 ## Problem Sets
-1. **January 11th** - [Problem Set 1](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
-2. **January 17th (class-time)** - [Problem Set 2](https://nbviewer.jupyter.org/github/ubcecon/ECON407_2019/blob/master/problem_sets/problem_set_2.ipynb)
+1. **January 11th** - [Problem Set 1](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
+2. **January 17th (class-time)** - [Problem Set 2](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/problem_sets/problem_set_2.ipynb)
 
