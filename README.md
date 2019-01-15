@@ -30,13 +30,13 @@ Major course sections
 4. **Data Science Case Studies and Tools**
 
 ## Lectures and Notebooks
-1. **January 3rd** - [Intro](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/intro.ipynb) and [Basics](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/basics.ipynb)
-2. **January 8th** - [Collections](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/collections.ipynb) and start [Control Flow](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/control_flow.ipynb)
-3. **January 10th** - Finish [Control Flow](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/control_flow.ipynb),  [Functions](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/functions.ipynb)
-4. **January 15th** - [Numpy](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/scientific/numpy_arrays.ipynb) and start [Plotting](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/scientific/plotting.ipynb)
+1. **January 3rd** - [Intro](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascience/blob/master/intro.ipynb) and [Basics](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascience/blob/master/basics.ipynb)
+2. **January 8th** - [Collections](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascience/blob/master/collections.ipynb) and start [Control Flow](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascience/blob/master/control_flow.ipynb)
+3. **January 10th** - Finish [Control Flow](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascience/blob/master/control_flow.ipynb),  [Functions](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascience/blob/master/functions.ipynb)
+4. **January 15th** - [Numpy](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascience/blob/master/scientific/numpy_arrays.ipynb) and start [Plotting](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascience/blob/master/scientific/plotting.ipynb)
 
 
 ## Problem Sets
-1. **January 11th** - [Problem Set 1](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
-2. **January 17th (class-time)** - [Problem Set 2](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascienceblob/master/problem_sets/problem_set_2.ipynb)
+1. **January 11th** - [Problem Set 1](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascience/blob/master/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
+2. **January 17th (class-time)** - [Problem Set 2](https://nbviewer.jupyter.org/github/QuantEcon/quantecon-notebooks-datascience/blob/master/problem_sets/problem_set_2.ipynb)
 
