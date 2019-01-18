@@ -36,7 +36,26 @@ Major course sections
 4. **January 15th** - Scientific/Numpy and Scientific/Plotting
 5. **January 17th** - Scientific/LinAlg and Scientific/Randomness
 6. **January 22nd** - Scientific/Randomness and Scientific/Optimization
-7. **January 24th** - Finish Scientific/Optimization and start Pandas 
+7. **January 24th** - Finish Scientific/Optimization and Introduce Pandas
+8. **January 29th** - 
+9. **January 31st** -
+10. **February 5th** - 
+11. **February 7th** - 
+12. **February 12th** -
+13. **February 14th** -
+14. **February 26th** - 
+15. **February 28th** -
+16. **March 5th** - 
+17. **March 7th** -
+18. **March 12th** - 
+19. **March 14th** -
+20. **March 19th** - 
+21. **March 21st** -
+22. **March 26th** -
+23. **March 28th** -
+24. **April 2nd** - 
+25. **April 4th** -
+
 
 ## Problem Sets
 1. **January 11th** - Problem Set 1 (uploaded as **executed** ipynb through Canvas)
