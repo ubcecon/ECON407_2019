@@ -32,10 +32,14 @@ Major course sections
 ## Lectures and Notebooks
 1. **January 3rd** - Intro and pyfun/Basics
 2. **January 8th** - pyfun/Collections and start pyfun/Control Flow
-3. **January 10th** - Finish pyfun/Control Flow and start pyfun/Functions
-4. **January 15th** -  scientific/Numpy and scientific/Plotting
+3. **January 10th** - Finish Pyfun/Control Flow and start Pyfun/Functions
+4. **January 15th** - Scientific/Numpy and Scientific/Plotting
+5. **January 17th** - Scientific/LinAlg and Scientific/Randomness
+6. **January 22nd** - Scientific/Randomness and Scientific/Optimization
+7. **January 24th** - Finish Scientific/Optimization and start Pandas 
 
 ## Problem Sets
 1. **January 11th** - Problem Set 1 (uploaded as **executed** ipynb through Canvas)
 2. **January 17th (class-time)** - Problem Set 2
+3. **January 24th (class-time)** - Problem Set 3
 
