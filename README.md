@@ -40,10 +40,21 @@ Major course sections
 8. **January 29th** - Pandas: Intro and start Basics
 9. **January 31st** - Review of PS3, Pandas: Basics
 10. **February 5th** - Pandas: Index and intro to Storage Formats and Data Cleaning
-11. **February 7th** - Review PS4, Pandas: Reshaping, merging and group-by
-12. **February 12th** - Pandas: Finish Group-by, Time Series, and Matplolib
-13. **February 14th** - Paul takes over
-
+11. **February 7th** - Review PS4, Pandas: Reshaping
+12. **February 12th** - Pandas: Group-by, merging
+13. **February 14th** - Pandas: Time Series, and Matplolib/visualization (Paul takes over)
+14. **February 26th** - 
+15. **February 28th** -
+16. **March 5th** - 
+17. **March 7th** -
+18. **March 12th** - 
+19. **March 14th** -
+20. **March 19th** - 
+21. **March 21st** -
+22. **March 26th** -
+23. **March 28th** -
+24. **April 2nd** - 
+25. **April 4th** -
 
 ## Problem Sets
 1. **January 11th** - Problem Set 1 (uploaded as **executed** ipynb through Canvas)
