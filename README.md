@@ -35,30 +35,20 @@ Major course sections
 3. **January 10th** - Finish Pyfun/Control Flow and start Pyfun/Functions
 4. **January 15th** - Scientific/Numpy and Scientific/Plotting
 5. **January 17th** - Scientific/LinAlg and Scientific/Randomness
-6. **January 22nd** - Scientific/Randomness and Scientific/Optimization
+6. **January 22nd** - Review PS2 and Scientific/Optimization
 7. **January 24th** - Finish Scientific/Optimization and Introduce Pandas
-8. **January 29th** - 
-9. **January 31st** -
-10. **February 5th** - 
-11. **February 7th** - 
-12. **February 12th** -
-13. **February 14th** -
-14. **February 26th** - 
-15. **February 28th** -
-16. **March 5th** - 
-17. **March 7th** -
-18. **March 12th** - 
-19. **March 14th** -
-20. **March 19th** - 
-21. **March 21st** -
-22. **March 26th** -
-23. **March 28th** -
-24. **April 2nd** - 
-25. **April 4th** -
+8. **January 29th** - Pandas: Intro and start Basics
+9. **January 31st** - Review of PS3, Pandas: Basics
+10. **February 5th** - Pandas: Index and intro to Storage Formats and Data Cleaning
+11. **February 7th** - Review PS4, Pandas: Reshaping, merging and group-by
+12. **February 12th** - Pandas: Finish Group-by, Time Series, and Matplolib
+13. **February 14th** - Paul takes over
 
 
 ## Problem Sets
 1. **January 11th** - Problem Set 1 (uploaded as **executed** ipynb through Canvas)
 2. **January 17th (class-time)** - Problem Set 2
 3. **January 24th (class-time)** - Problem Set 3
-
+4. **February 1st** - Problem Set 4
+5. **February 8th** - Problem Set 5
+6. **February 15th** - Problem Set 6
