@@ -62,4 +62,4 @@ Major course sections
 3. **January 24th (class-time)** - Problem Set 3
 4. **February 1st** - Problem Set 4
 5. **February 8th** - Problem Set 5
-6. **February 26th** - Problem Set 6
+6. **February 28th** - Problem Set 6
