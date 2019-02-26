@@ -41,14 +41,14 @@ Major course sections
 9. **January 31st** - Review of PS3, Pandas: Basics
 10. **February 5th** - Pandas: Index and intro to Storage Formats and Data Cleaning
 11. **February 7th** - Review PS4, Pandas: Reshaping
-12. **February 12th** - Pandas: Group-by, merging
-13. **February 14th** - Pandas: Time Series, and Matplolib/visualization (Paul takes over)
-14. **February 26th** - 
-15. **February 28th** -
-16. **March 5th** - 
-17. **March 7th** -
-18. **March 12th** - 
-19. **March 14th** -
+12. ~~**February 12th**~~ - snow day 
+13. **February 14th** - Pandas: Group-by, merging
+14. **February 26th** - Pandas/matplolib visualization (Paul takes over)
+15. **February 28th** - Begin applications/visualization
+16. **March 5th** - Finish applications/visualization, begin applications/regression 
+17. **March 7th** - Applications/regression
+18. **March 12th** - Applications/regression
+19. **March 14th** - 
 20. **March 19th** - 
 21. **March 21st** -
 22. **March 26th** -
@@ -63,3 +63,5 @@ Major course sections
 4. **February 1st** - Problem Set 4
 5. **February 8th** - Problem Set 5
 6. **February 28th** - Problem Set 6
+
+Lecture and problem set notebooks can be found in [https://github.com/QuantEcon/quantecon-notebooks-datascience](https://github.com/QuantEcon/quantecon-notebooks-datascience).
