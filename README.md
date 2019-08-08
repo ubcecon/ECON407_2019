@@ -44,17 +44,17 @@ Major course sections
 12. ~~**February 12th**~~ - snow day 
 13. **February 14th** - Pandas: Group-by, merging
 14. **February 26th** - Pandas/matplolib visualization (Paul takes over)
-15. **February 28th** - Begin applications/visualization
-16. **March 5th** - Finish applications/visualization, begin applications/regression 
-17. **March 7th** - Applications/regression
-18. **March 12th** - Applications/regression
-19. **March 14th** - 
-20. **March 19th** - 
-21. **March 21st** -
-22. **March 26th** -
-23. **March 28th** -
-24. **April 2nd** - 
-25. **April 4th** -
+15. **February 28th** - Begin applications/visualization_rules
+16. **March 5th** - Finish applications/visualization_rules, begin applications/regression 
+17. **March 7th** - Intro to regression methods, lasso: applications/regression
+18. **March 12th** - Regression forests, neural networks: applications/regression
+19. **March 14th** - More visualization and introduction to classification: applications/recidivism
+20. **March 19th** - applications/recidivism continued
+21. **March 21st** - More classification: applications/classification
+22. **March 26th** - Machine learning in economics-estimating nuisance functions: applications/ml_in_economics
+23. **March 28th** - Machine learning in economics-heterogeneity: applications/ml_in_economics
+24. **April 2nd** -  Mapping: applications/mapping
+25. **April 4th** -  Working with text: applications/avalanche
 
 ## Problem Sets
 1. **January 11th** - Problem Set 1 (uploaded as **executed** ipynb through Canvas)
@@ -63,5 +63,7 @@ Major course sections
 4. **February 1st** - Problem Set 4
 5. **February 8th** - Problem Set 5
 6. **February 28th** - Problem Set 6
+7. Probelm Set 7
+8. Problem Set 8
 
 Lecture and problem set notebooks can be found in [https://github.com/QuantEcon/quantecon-notebooks-datascience](https://github.com/QuantEcon/quantecon-notebooks-datascience).
